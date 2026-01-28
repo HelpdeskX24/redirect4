@@ -1,4 +1,4 @@
-starfish-app<?php
+<?php
   ?>
 <!DOCTYPE html>
 <html lang="en">

